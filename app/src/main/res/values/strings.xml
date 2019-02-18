@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I am Poor!</string>
+    <string name="titleDoc">Coal</string>
+    <string name="data">Welcome to poor app! you can be rich by clicking the button for 24 hours ! start now</string>
+    <string name="button">click Me! </string>
+    <string name="danger">Or not!</string>
 </resources>
