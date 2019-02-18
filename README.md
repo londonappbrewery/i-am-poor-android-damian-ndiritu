@@ -8,7 +8,7 @@ This is a quick introduction to android app development.
 2. How to use the resources folder of Android App
 
 ## What it does cover.
-1. Not java code present thus not functionality.
+1. No java code present thus no functionality.
 
 ### Source material.
 https://www.udemy.com/android-app-development-with-java/
